@@ -6413,6 +6413,14 @@ textarea.form-input {
   color: #991915;
 }
 
+.post-elizabeth {
+    background: rgb(14 14 14 / 50%);
+    padding: 2em;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+}
+
 .post-elizabeth-meta {
   margin-bottom: -7px;
   margin-left: -15px;
